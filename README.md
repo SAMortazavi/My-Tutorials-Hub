@@ -73,7 +73,7 @@ We welcome contributions to improve these tutorials! Here’s how you can help:
 2. **Create a new branch** for your changes.  
 3. **Submit a pull request** with a clear description of the modifications or additions.  
 
-Thank you for helping us make **My Tutorials Hub** better for everyone!  
+Thank you for helping me make **My Tutorials Hub** better for everyone!  
 
 ---
 
