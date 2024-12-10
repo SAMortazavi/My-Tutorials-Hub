@@ -79,11 +79,5 @@ Thank you for helping us make **My Tutorials Hub** better for everyone!
 
 ## **Contact**  
 
-Here’s the updated **Contact** section with your email added as a clickable link:
-
----
-
-## **Contact**  
-
 For any questions, feedback, or issues, please feel free to open an issue or reach out via email: [SAMortazavi](mailto:seyyed79abolfazl@gmail.com).  
 
